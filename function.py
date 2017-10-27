@@ -13,7 +13,6 @@ def my_range(start, end, by=1):
 	return numbers
 
 #rewrite my range to use a for loop rather than restoring to pyton builitn range function
-
 def histogram(list):
     count = 0
     dictionary = {}
